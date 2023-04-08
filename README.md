@@ -1,6 +1,8 @@
 # Aplicação de Cadastro de Produtos
+<li> 
 <a href="https://www.youtube.com/embed/nbipdn7v7Ro">Veja a aplicação rodando</a>
-
+</li>
+<hr>
 <p>Tela Inicial</p>
 <img src="https://live.staticflickr.com/65535/52802074862_6c6a6bfccf_b.jpg" width="400" height="250"  alt="home screen">
 <p>Tela de Cadastro</p>
