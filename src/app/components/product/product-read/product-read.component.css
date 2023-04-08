@@ -1,0 +1,34 @@
+table {
+    width: 100%;
+    background-color: #e9e9e9;
+}
+
+th{
+color: black;
+border-color: black;
+}
+
+td {
+color: black;
+border-color: black;
+font-size: larger;
+}
+
+.edit {
+    margin-right: 20px;
+}
+
+.delete {
+    margin-left: 10px;
+}
+
+.edit > i {
+    color: #00b600;
+    border-color: black;
+}
+
+.delete > i {
+    color: rgb(1, 40, 1);
+    border-color: black;
+
+}
