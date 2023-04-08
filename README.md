@@ -1,5 +1,10 @@
- #  💻Cadastro de Produtos
+# Aplicação de Cadastro de Produtos
+<a href="https://www.youtube.com/embed/nbipdn7v7Ro">Veja a aplicação rodando</a>
 
+<p>Tela Inicial</p>
+<img src="https://live.staticflickr.com/65535/52802074862_6c6a6bfccf_b.jpg" width="400" height="250"  alt="home screen">
+<p>Tela de Cadastro</p>
+<img src="https://live.staticflickr.com/65535/52802085997_c18e4aa833_b.jpg)" width="400" height="250"  alt="register screen">
 Esta é uma aplicação web de cadastro de produtos desenvolvida utilizando Angular e backend Node.js.
 
 # 📝 Funcionalidades 
@@ -17,9 +22,10 @@ Esta é uma aplicação web de cadastro de produtos desenvolvida utilizando Angu
 <li>Angular.</li>
 <li>Node.JS</li>
 
-# Autor:
+# Autor: Irineu Brito
 <table>
 Este projeto foi desenvolvido por Irineu Brito.
+<a href="https://github.com/irineub">Veja meu Github</a>
 </table>
 Entre em contato pelo email irineugmestre@gmail.com
 
