@@ -1,18 +1,25 @@
-  Cadastro de Produtos
+ #  💻Cadastro de Produtos
 
 Esta é uma aplicação web de cadastro de produtos desenvolvida utilizando Angular e backend Node.js.
 
-Funcionalidades
-•	Cadastrar produtos com nome, descrição, preço e imagem.
-•	Listar todos os produtos cadastrados.
-•	Editar informações de um produto existente.
-•	Excluir um produto existente.
+# 📝 Funcionalidades 
+<table>
+  <ul>
+<li>Cadastrar produtos com nome, descrição, preço e imagem.</li>
+<li>Listar todos os produtos cadastrados.</li>
+<li>Editar informações de um produto existente.</li>
+<li>Excluir um produto existente.</li>
+ </ul>
+</table>
 
-Tecnologias utilizadas
+# 🚀Tecnologias utilizadas:
 
-•	Angular
-•	Node.js
+<li>Angular.</li>
+<li>Node.JS</li>
 
-Autor
-Este projeto foi desenvolvido por Irineu Brito. Entre em contato pelo email irineugmestre@gmail.com
+# Autor:
+<table>
+Este projeto foi desenvolvido por Irineu Brito.
+</table>
+Entre em contato pelo email irineugmestre@gmail.com
 
